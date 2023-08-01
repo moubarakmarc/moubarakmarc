@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moubarakmarc
 - 👀 I’m interested in robotics and automation of several kinds of processes
-- 🌱 I’m a mechanical engineer with a focus in autmation
+- 🌱 I’m a mechanical engineer with a focus in automation
 - 💞️ I’m looking to collaborate on different scale projects
 - 📫 How to reach me: @moubarakmarc mostly on all social media sites.
 
